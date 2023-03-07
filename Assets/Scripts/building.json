@@ -1,0 +1,24 @@
+﻿{
+  "BuildingInfo": {
+    "BuildingType": 1,
+    "BuildingAddress": "1 E Loop Rd"
+  },
+  "Building":
+  [
+    {
+      "id": 1,
+      "Floor": [
+        {
+          "UnitStatus": "Renovating",
+          "UnitType": "1 Bed 1 Bath",
+          "NumBeds": 1,
+          "NumBaths": 1,
+          "UnitID": "Ar1",
+          "UnitSF": 900,
+          "CurrentRent": 963,
+          "PSF": 1.37
+        }
+      ]
+    }
+  ]
+}
